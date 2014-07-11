@@ -1,5 +1,0 @@
-<!ELEMENT messages (message*)>
-<!ELEMENT message (#PCDATA)>
-<!ATTLIST message
-	id CDATA #REQUIRED
->
